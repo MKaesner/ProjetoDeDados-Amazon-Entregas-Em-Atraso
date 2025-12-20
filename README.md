@@ -64,15 +64,15 @@ A análise dos dados permitiu identificar padrões relevantes, como:
 - A área “Semi-Urban” é a única área que apresenta mais atrasos do que entregas sem atraso. 
 - Os atrasos aumentam em dias nublados e com neblina, e diminuem em dias de sol.
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MKaesner/MK_Portfolio-Projetos/main/assets/img/portfolio/EntegasAmazon-g02.png" alt="Gráfico 1" width="45%"></td>
-    <td><img src="https://raw.githubusercontent.com/MKaesner/MK_Portfolio-Projetos/main/assets/img/portfolio/EntegasAmazon-g03.png" alt="Gráfico 1" width="45%"></td>
+    <td><img src="https://github.com/MKaesner/MK_Portfolio-Projetos/blob/main/assets/img/portfolio/EntregasAmazon-g02.png" alt="Gráfico 1" width="45%"></td>
+    <td><img src="https://github.com/MKaesner/MK_Portfolio-Projetos/blob/main/assets/img/portfolio/EntregasAmazon-g03.png" alt="Gráfico 1" width="45%"></td>
   </tr>
 
 - Veículos como motocicletas apresentam maior taxa de entrega atrasada em relação aos outros meios de transporte.
 - O nível de tráfego forte ( Jam ), apresenta mais atrasos.
    <tr>
-      <td><img src="https://raw.githubusercontent.com/MKaesner/MK_Portfolio-Projetos/main/assets/img/portfolio/EntegasAmazon-g04.png" alt="Gráfico 1" width="45%"></td>
-      <td><img src="https://raw.githubusercontent.com/MKaesner/MK_Portfolio-Projetos/main/assets/img/portfolio/EntegasAmazon-g05.png" alt="Gráfico 1" width="45%"></td>
+      <td><img src="https://github.com/MKaesner/MK_Portfolio-Projetos/blob/main/assets/img/portfolio/EntregasAmazon-g04.png" alt="Gráfico 1" width="45%"></td>
+      <td><img src="https://github.com/MKaesner/MK_Portfolio-Projetos/blob/main/assets/img/portfolio/EntregasAmazon-g05.png" alt="Gráfico 1" width="45%"></td>
   </tr>
 
 - Os maiores atrasos aconteceram com entregas para a área “Semi-Urban” realizadas por motocicletas como veículo.

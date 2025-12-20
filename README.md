@@ -89,7 +89,7 @@ Como resultado do projeto, as iniciativas são:
 - Diagnóstico visual dos pontos mais críticos da operação.
 - Base analítica para priorizar ações corretivas.
 - Relatórios e gráficos que podem ser utilizados por áreas não técnicas.
-- Link para o relatório da análise gráfica: https://lookerstudio.google.com/reporting/1b5f8acb-9661-4e0d-bcea-5329480e3f9f
+- Acesso ao relatório da análise gráfica: https://lookerstudio.google.com/reporting/1b5f8acb-9661-4e0d-bcea-5329480e3f9f
 
 Além disso, o projeto demonstra como a análise de dados pode transformar dados operacionais em decisões práticas, mesmo utilizando técnicas simples.
 
